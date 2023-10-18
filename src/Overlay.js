@@ -47,6 +47,9 @@ function Intro({ config }) {
   return (
     <motion.section {...config}>
       <div className="section--container">
+        <div className='spacer'>
+          
+        </div>
         <div className="support--content">
           <div>
             <p>
