@@ -47,9 +47,6 @@ function Intro({ config }) {
   return (
     <motion.section {...config}>
       <div className="section--container">
-        <div>
-          <h1>LET'S DO IT.</h1>
-        </div>
         <div className="support--content">
           <div>
             <p>
